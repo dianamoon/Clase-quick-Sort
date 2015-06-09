@@ -13,6 +13,7 @@ namespace QuickSort
         {
                 int i,j, central;
                 int pivote;
+                int chubuntu;
                 central =(primero +ultimo)/2;//identificamos el elemento central del arreglo
                 pivote = vector[central].NumeroJugador;
                 i = primero;
