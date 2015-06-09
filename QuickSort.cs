@@ -1,7 +1,7 @@
 ﻿
 namespace QuickSort
 {
-    class QuickSort
+    class QuickSort     
     {
 
         //declaramos un arreglo de enteros
